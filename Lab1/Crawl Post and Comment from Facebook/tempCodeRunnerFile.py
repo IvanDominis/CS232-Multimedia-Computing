@@ -1,1 +1,0 @@
-print(comment_text)
